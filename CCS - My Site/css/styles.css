@@ -1,0 +1,57 @@
+h1 {
+    margin: 0;
+    font-family: 'Syne Mono', monospace;
+}
+
+h2{
+    font-family: 'sans-serif', cursive;
+}
+
+h3{
+    font-family: 'sans-serif', cursive;
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Kiwi Maru', serif;
+}
+
+.top-container {
+    background-color: rgb(94, 252, 252);
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.profile-picture {
+    width: 200px;
+}
+
+.skills-picture2 {
+    width: 200px;
+}
+
+.skills-picture1{
+    width: 200px;
+}
+
+.bottom-container {
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px; 
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
